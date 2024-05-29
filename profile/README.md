@@ -11,3 +11,15 @@ You will find the frontend in the [Frontend](https://github.com/CosmonautJukeBox
 ## Smart Contract
 
 You will find the smart contract in the [Contract](https://github.com/CosmonautJukeBox/CosmonautJukeBoxContract) repository.
+
+## Tech Stack
+
+### Frontend
+
+- NextJs
+
+### Smart Contract
+
+- CosmWasm
+- cw-orchestrator
+- Neutron Testnet
