@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a hackathon project for awesome cosm wasm hackathon.
+This is a hackathon project for awesome cosm wasm hackathon. 
 
 ## Frontend
 
