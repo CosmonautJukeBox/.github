@@ -18,7 +18,8 @@ You will find the smart contract in the [Contract](https://github.com/CosmonautJ
 ### Frontend
 
 - NextJs
-
+- TypeScript
+  
 ### Smart Contract
 
 - CosmWasm
